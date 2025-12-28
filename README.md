@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vg9233384@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X6B8WKJSy7i967D_1lAFeaZl-e-GyXRj/view?usp=drive_link](https://drive.google.com/file/d/1X6B8WKJSy7i967D_1lAFeaZl-e-GyXRj/view?usp=drive_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1sESmIJ1-rPT3jiTYobioqbgPR5fiw2-T0NiJm3oCmEA/edit?usp=drive_link](https://docs.google.com/document/d/1sESmIJ1-rPT3jiTYobioqbgPR5fiw2-T0NiJm3oCmEA/edit?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 
