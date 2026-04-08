@@ -52,20 +52,10 @@ A full-stack Django application that allows users to send messages to their futu
 
 ---
 
-#### 💰 Expense Tracker
-A backend system to manage and track daily expenses efficiently.
-
-- 🧾 Implemented **CRUD operations** for expense management  
-- 🔐 User authentication & secure data handling  
-- 📊 Tracks and structures user spending data  
-- ⚙️ Tech: **Django, REST APIs, SQLite/PostgreSQL**
-
----
-
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,django,postgresql,mysql,git,github,vscode" />
-</div>
+</div> 
 
 ---
 
@@ -73,14 +63,6 @@ A backend system to manage and track daily expenses efficiently.
 - 📚 Improving **DSA & Competitive Programming**
 - ⚙️ Building scalable backend systems using **Django & DRF**
 - 🧠 Strengthening problem-solving and logical thinking
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshgarg8683&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg8683&theme=tokyonight" />
-</p>
 
 ---
 
