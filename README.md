@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Garg</h1>
-<h3 align="center">Competitive Programmer | Backend Developer | Django Enthusiast</h3>
+
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Vansh+Garg;Competitive Programmer;Full-Stack+Developer&v=5" alt="Header" /> </div>
 
 ---
 
@@ -68,8 +69,19 @@ A full-stack Django application that allows users to send messages to their futu
 
 ### 📫 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/vansh-garg-b778a928b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:vg9233384@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://codeforces.com/profile/vanshgarg8683"><img src="https://skillicons.dev/icons?i=codeforces" /></a>
-<a href="https://www.leetcode.com/code_by_vansh"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+<a href="https://linkedin.com/in/vansh-garg-b778a928b">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:vg9233384@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://codeforces.com/profile/vanshgarg8683">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.leetcode.com/code_by_vansh">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40" height="40"/>
+</a>
 </p>
