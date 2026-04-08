@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Garg</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Vansh+Garg;Competitive+Programmer;Backend+Developer;Django+Enthusiast&v=5" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Vansh+Garg;Competitive+Programmer;Django+Enthusiast&v=5" alt="Header" />
 </div>
 
 ---
