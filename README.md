@@ -16,7 +16,7 @@
 
 ### 🏆 Competitive Programming
 - 🔥 **Codeforces:** 1454 (Specialist)  
-- 🧠 **LeetCode:** 1100+ Problems Solved  
+- 🧠 **LeetCode:** 1200+ Problems Solved  
 - ⭐ **CodeChef:** 3⭐ Coder  
 
 <div align="center">
