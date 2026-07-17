@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 3rd Year Student at **IIIT Bhopal**
+- 🎓 4th Year Student at **IIIT Bhopal**
 - 💡 Passionate about **Problem Solving & Backend Development**
 - ⚡ Strong focus on **Data Structures, Algorithms & Competitive Programming**
 - 🌱 Currently learning **Django & Django REST Framework**
@@ -15,8 +15,8 @@
 ---
 
 ### 🏆 Competitive Programming
-- 🔥 **Codeforces:** 1454 (Specialist)  
-- 🧠 **LeetCode:** 1200+ Problems Solved  
+- 🔥 **Codeforces:** 1503 (Specialist)  
+- 🧠 **LeetCode:** 1300+ Problems Solved  
 - ⭐ **CodeChef:** 3⭐ Coder  
 
 <div align="center">
