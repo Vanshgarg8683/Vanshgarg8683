@@ -57,7 +57,7 @@ A full-stack Django application that allows users to send messages to their futu
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,django,postgresql,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,django,postgres,mysql,sqlite,redis,git,github,postman,vscode" />
 </div> 
 
 ---
